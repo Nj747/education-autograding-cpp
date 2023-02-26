@@ -8,7 +8,7 @@ Insert your assignment
 `make`
 
 ### Run command
-`./AppTests <test_name>`
+`./appTests <test_name>`
 
 ### Notes
 - `g++` can be used to compile and link C++ applications for use with existing test harnesses or other C++ testing frameworks.
