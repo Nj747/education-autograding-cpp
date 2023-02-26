@@ -1,6 +1,6 @@
 all: clean test
 
-appTests: hello.cpp
+appTests: tests.cpp
 	g++ -Wall --std=c++17 tests.cpp catch_amalgamated.cpp -o appTests
 
 test: appTests
