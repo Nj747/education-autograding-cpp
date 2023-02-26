@@ -2,13 +2,13 @@
 This example project is written in C++, and tested with make and [Catch2](https://github.com/catchorg/Catch2).
 
 ### The assignment
-The tests are failing right now because of a bad base case in the factorial function. Correcting the base case will fix the tests.
+Insert your assignment 
 
 ### Setup command
-N/A
+`make`
 
 ### Run command
-`make test`
+`./AppTests <test_name>`
 
 ### Notes
 - `g++` can be used to compile and link C++ applications for use with existing test harnesses or other C++ testing frameworks.
